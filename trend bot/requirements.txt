@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+sentence-transformers
+transformers
+nltk
+langdetect
+textblob
+numpy
+fastapi
+uvicorn
+python-multipart
